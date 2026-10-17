@@ -5,6 +5,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Physics](https://img.shields.io/badge/Physics-Darveaux%20%7C%20Norris--Landzberg-green.svg)
 ![Formats](https://img.shields.io/badge/Formats-KiCad%20%7C%20Gerber%20%7C%20JSON-orange.svg)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://thermo-mechanical-reliability-guardian-ypispddkarhz7hl5m6fpww.streamlit.app/)
 
 An automated, physics-informed DevSecOps agent that predicts thermal fatigue life in 2.5D/3D packaging. Built for the **GitLab Transcend Hackathon 2026** (Showcase Track).
 
