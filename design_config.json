@@ -1,0 +1,11 @@
+{
+  "thermal_conditions": {
+    "delta_T": 150,
+    "max_temp": 400,
+    "frequency": 2
+  },
+  "geometry": {
+    "solder_height": 0.08,
+    "pad_diameter": 0.4
+  }
+}

@@ -1,0 +1,19 @@
+# .gitlab-ci.yml
+stages:
+  - test
+
+thermal_reliability:
+  stage: test
+  image: python:3.9
+  script:
+    - pip install -r requirements.txt
+    - python agent.py
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+      changes:
+        - "*.kicad_pcb"
+        - "*.gtl"
+        - "*.gbl"
+        - "*.gts"
+        - "*.gbs"
+        - "design_config.json"

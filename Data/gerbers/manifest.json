@@ -1,0 +1,23 @@
+{
+    "preset": "aerospace",
+    "source_pcb": "C:\\Users\\altug\\Documents\\Projects\\2026\\Micro_dashboard\\outputs\\pcb_aerospace.kicad_pcb",
+    "applied_rules": {
+        "via_pitch_mm": 1.1,
+        "min_trace_clearance_um": 136.0,
+        "min_dielectric_thickness_um": 127.0,
+        "min_bend_radius_mm": 0.48,
+        "relief_gap_um": 50.02937168420469,
+        "die_pad_buffer_um": 225.0,
+        "imc_thickness_um": 0.14685842102346022,
+        "fatigue_life_cycles": 2044107847.6617043
+    },
+    "Gerber_layers": [
+        "F.Cu",
+        "B.Cu",
+        "F.SilkS",
+        "B.SilkS",
+        "F.Mask",
+        "B.Mask",
+        "Edge.Cuts"
+    ]
+}
