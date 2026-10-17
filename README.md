@@ -1,7 +1,6 @@
 # 🛡️ Thermo-Mechanical Reliability Guardian
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Physics](https://img.shields.io/badge/Physics-Darveaux%20%7C%20Norris--Landzberg-green.svg)
 ![Formats](https://img.shields.io/badge/Formats-KiCad%20%7C%20Gerber%20%7C%20JSON-orange.svg)
