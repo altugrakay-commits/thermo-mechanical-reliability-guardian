@@ -18,7 +18,7 @@ The **Thermo-Mechanical Reliability Guardian** bridges this gap. It acts as an a
 3.  **Posts the results** directly back to the GitLab Merge Request workflow.
 4.  **Visualizes the thermal strain distribution** across every pad on the board.
 
-![Dashboard Screenshot](docs/screenshot_gtl.png)
+![Dashboard Screenshot](Documents/gtl_image.png)
 *Live analysis of a 106-pad Top Copper layer, with color-coded fatigue life per pad.*
 
 ## 🚀 Key Features
