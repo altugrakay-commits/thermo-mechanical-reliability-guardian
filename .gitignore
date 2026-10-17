@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+thermal_strain_render.png
+dummy_design.json
+.vscode/
