@@ -1,3 +1,5 @@
-libgl1-mesa-glx
+libgl1
 libosmesa6-dev
 libxcursor-dev
+xvfb
+procps
