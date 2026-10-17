@@ -19,7 +19,7 @@ The **Thermo-Mechanical Reliability Guardian** bridges this gap. It acts as an a
 4.  **Visualizes the thermal strain distribution** across every pad on the board.
 
 ![Dashboard Screenshot](Documents/gtl_image.png)
-*Live analysis of a 106-pad Top Copper layer, with color-coded fatigue life per pad.*
+**Figure 1:** Live analysis of a 106-pad Top Copper layer, with color-coded fatigue life per pad.
 
 ## 🚀 Key Features
 
