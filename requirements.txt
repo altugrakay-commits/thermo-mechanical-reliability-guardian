@@ -4,3 +4,5 @@ streamlit
 pyvista
 kiutils
 gerbonara
+matplotlib
+vtk
